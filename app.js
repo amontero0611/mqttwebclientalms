@@ -12,8 +12,8 @@ var userName = 'a-6o4u2s-rgiqh9syrm'
 var password = '4f1N(PgJ6nSODodCM3'
 
 //Your device type and device id
-var deviceType = 'Android'
-var deviceId = 'galaxys7'
+var deviceType = 'Accelerometer'
+var deviceId = 'GS7'
 
 // Standard port for MQTT is 1883, encrypted 8883
 var port = 8883
