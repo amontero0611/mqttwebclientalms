@@ -9,7 +9,8 @@ var app = {};
 var orgId = '6o4u2s'
 // The username/password is the API-key and the corresponding authentication token.
 var userName = 'a-6o4u2s-rgiqh9syrm'
-var password = '4f1N(PgJ6nSODodCM3'
+//var password = '4f1N(PgJ6nSODodCM3'
+var password = 'ibm4metoo'
 
 //Your device type and device id
 var deviceType = 'Accelerometer'
