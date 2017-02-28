@@ -6,14 +6,14 @@
 var app = {};
 
 // Your Bluemix organization ID
-var orgId = 'xxxxx'
+var orgId = '6o4u2s'
 // The username/password is the API-key and the corresponding authentication token.
-var userName = 'xxxxxxxxx'
-var password = 'xxxxxxxxx'
+var userName = 'a-6o4u2s-rgiqh9syrm'
+var password = '4f1N(PgJ6nSODodCM3'
 
 //Your device type and device id
-var deviceType = 'xxxxxxx'
-var deviceId = 'xxxxxxxxx'
+var deviceType = 'Android'
+var deviceId = 'galaxys7'
 
 // Standard port for MQTT is 1883, encrypted 8883
 var port = 8883
